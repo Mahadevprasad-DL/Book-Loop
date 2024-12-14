@@ -79,11 +79,11 @@ book-loop/
 ```
 
 ## 🎨 Screenshots
-### Home Page
-![Home Page](screenshots/home.png)
+### Signup Page
+![Signup Page](screenshots/home.png)
 
-### Book Notifications
-![Notifications](screenshots/notifications.png)
+### Book Dashboard
+![Dashboard](screenshots/notifications.png)
 
 ---
 
