@@ -100,7 +100,7 @@ We welcome contributions to enhance the **Book Loop** project. Here's how you ca
 
 ## ✨ Credits
 **Project Developed By**: [Mahadevprasad DL ]  
-**GitHub**: [Your GitHub Profile](https://github.com/Mahadevprasad-DL)
+**GitHub**: [GitHub Profile](https://github.com/Mahadevprasad-DL)
 
 ---
 
