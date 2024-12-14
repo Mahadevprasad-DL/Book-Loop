@@ -38,7 +38,7 @@ Follow these steps to set up **Book Loop** on your local environment:
 
 ### 2. Clone the Repository
 ```bash
-https://github.com/your-username/book-loop.git
+https://github.com/Mahadevprasad-DL/Book-Loop.git       
 cd book-loop
 ```
 
@@ -76,12 +76,7 @@ book-loop/
 |-- exchange_login.php   # User login page
 |-- notifications.php    # Notifications page
 |-- accept.php           # Accept book exchange request
-|-- styles/              # CSS files
-|-- scripts/             # JavaScript files
-|-- sql/                 # SQL file for database setup
 ```
-
----
 
 ## 🎨 Screenshots
 ### Home Page
@@ -92,10 +87,7 @@ book-loop/
 
 ---
 
-## 🔗 Live Demo
-Coming Soon...
 
----
 
 ## 🌈 Contribution Guidelines
 We welcome contributions to enhance the **Book Loop** project. Here's how you can help:
@@ -107,8 +99,8 @@ We welcome contributions to enhance the **Book Loop** project. Here's how you ca
 ---
 
 ## ✨ Credits
-**Project Developed By**: [Your Name]  
-**GitHub**: [Your GitHub Profile](https://github.com/your-username)
+**Project Developed By**: [Mahadevprasad DL ]  
+**GitHub**: [Your GitHub Profile](https://github.com/Mahadevprasad-DL)
 
 ---
 
@@ -120,6 +112,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📢 Acknowledgements
 Special thanks to all the contributors and the open-source community.
 
----
-
-✨ *Happy Reading & Sharing with Book Loop!* 📚🌐
