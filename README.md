@@ -80,10 +80,12 @@ book-loop/
 
 ## 🎨 Screenshots
 ### Signup Page
-![Signup Page](screenshots/home.png)
+![Screenshot (648)](https://github.com/user-attachments/assets/dfb8fe00-eb75-4634-bd72-42cf15b27870)
+
 
 ### Book Dashboard
-![Dashboard](screenshots/notifications.png)
+![Screenshot (649)](https://github.com/user-attachments/assets/7569af79-7d0c-4c1b-9d9e-7c784ced8b9e)
+
 
 ---
 
